@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Haziness';
+  src: url('./Haziness.eot');
+  src: local('Haziness'), url('./Haziness.woff') format('woff'), url('./Haziness.ttf') format('truetype');
+}
+
+.fontsforweb_fontid_423 {
+	font-family: 'Haziness' !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Haziness' !important;
+}
+

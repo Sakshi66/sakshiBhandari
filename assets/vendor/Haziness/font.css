@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Haziness';
+  src: url('./Haziness.eot');
+  src: local('Haziness'), url('./Haziness.woff') format('woff'), url('./Haziness.ttf') format('truetype');
+}
+
